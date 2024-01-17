@@ -1,0 +1,233 @@
+
+.logo{
+
+    width: 188;
+    height: 68;
+}
+.bgContainer{
+    background-color: #b7b7b7;
+    
+}
+.a{
+    border-width: 1px;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: #e5eaf4;
+
+}
+.newsCard{
+    position: relative;
+    text-align: left;
+    color: white;
+
+}
+.newsCard1{
+  background-image: url(ministryOfFinance.jpg);
+  /* background-image: url(Tax-documents_pexels.jpg.webp); */
+ 
+    height: 60vh;
+    background-size:cover;
+}
+
+.newsCard2{
+  background-image: url(newsCardBW.png);
+    height: 29vh;
+    background-size:cover;
+}
+.newsCard3{
+  background-image: url(newsCard.png);
+    height: 29vh;
+    background-size:cover;
+}
+
+.newsHeading{
+   
+    font-family: Manrope;
+    font-size:   150%; 
+    font-weight: 600;
+    line-height: 2rem;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+.newsDate{
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+font-family: Sofia Pro;
+font-size: 12px;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.newstype{
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #d0b200;
+    color: white;
+    width: 66.29px;
+    height: 22px;
+    top: 143px;
+    left: 85.56px;
+ 
+
+
+  }
+  .newsDateSmall{
+    
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Sofia Pro;
+    font-size: 10px;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+    
+  }
+  .newsHeadingSmall{
+    font-family: Manrope;
+    font-size: 100%;
+    font-weight: 550;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+  }
+  .LatestPostsHeading{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+   color: #181A2A;
+
+
+  }
+  .postCrad{
+    border-radius: 16px;
+  }
+  .postTypeContainer{
+    font-family: "Work Sans";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4B6BFB;
+    background-color: #4B6BFB0D;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .postDescription{
+    font-family: "Manrope";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #181A2A;
+    width: 80%;
+
+  }
+  .sourceLogo{
+    height: 25px;
+    top: 953px;
+    left: 422.64px;
+
+  }
+  .souceName{
+    font-family: Work Sans;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #97989F;
+    padding-left: 10px;
+
+  }
+  .klm{
+    background-image: url(espots.png);
+ 
+    height: 60vh;
+    background-size:cover;
+    
+  }
+  .advertisement{
+    background-image: url(advertise.png);
+    background-size: cover;
+  }
+  .advHeading{
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Sofia Pro;
+    font-size: 19px;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+  }
+  .advtext{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F65050;
+  }
+  .purchase{
+    width: 267.83px;
+    height: 61.22px;
+    top: 1558.87px;
+    left: 1053.5px;
+    border-radius: 6px;
+    background-color: #F65050;
+    color: white;
+    border: none;
+
+  }
+  .line{
+    border: 1.1px solid #00000030
+  }
+  .footertext{
+    /* height: */
+    font-size: 100%;
+    width: 50%;
+    color: #6C6C6C;
+  }
+  
+  .footerlogo{
+    width: 20%;
+    height: 50%;
+  }
+  .footerSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
